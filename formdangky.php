@@ -12,11 +12,11 @@
     <td colspan="2">Dang ky thanh vien</td>
    </tr>
    <tr>
-    <td>Username :</td>
+    <td>Username:</td>
 	<td><input type="text" id="username" name="username" /></td>
    </tr>
    <tr>
-    <td>Password :</td>
+    <td>Password:</td>
 	<td><input type="password" id="password" name="password" /></td>
    </tr> 
    <tr>
