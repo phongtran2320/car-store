@@ -1,0 +1,9 @@
+Executed SQL Statement : Create table `dbqladmin`.`qlkhachhang`(  
+  `ma` int NOT NULL,
+  `tenkh` varchar(50),
+  `sdt` int,
+  `mail` varchar(50),
+  primary key (`ma`)
+) 
+Error Number : 1050 
+Error Message: Table 'qlkhachhang' already exists 
